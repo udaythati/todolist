@@ -25,3 +25,18 @@ h1 {
 }
 
 
+#add-item-button {
+    background-color: yellow;
+    border-radius: 10px;
+}
+
+#remove-item-button {
+    background-color: yellow;
+    border-radius: 10px;
+}
+
+#new-item {
+    background-color: pink;
+/* padding-left: 20%; */
+margin-left: 400px;
+}
